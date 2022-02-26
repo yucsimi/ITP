@@ -6,14 +6,14 @@ import SidebarItems from './SidebarItems';
 import Graph from '../assets/Graph.png'
 import vector from '../assets/Vector 2.png'
 import Notification from '../assets/Notification.png'
-import chat from '../assets/Chat.png'
+/* import chat from '../assets/Chat.png'
 import category from '../assets/Category.png'
 import infoSquare from '../assets/Info Square.png'
 import users from '../assets/3 User.png'
 import profile from '../assets/Profile.png'
 import call from '../assets/Call.png'
 import api from '../assets/api.png'
-import paper from '../assets/Paper.png'
+import paper from '../assets/Paper.png' */
 import white from '../assets/white.png'
 
 
