@@ -10,7 +10,7 @@ const SidebarItems = ({ icon, titulo, identificadorMenu, identificador, updateId
                 <button className="sidebar-buttom " type='submit' >
 
                     <div className="d-flex sidebar-buttom-adentro">
-                        <span ><img className='sidebaricon' src={icon} /></span>
+                        <span ><img alt='icon' className='sidebaricon' src={icon} /></span>
                         <p className="sidebar-titulo"> {titulo} </p>
                     </div>
 

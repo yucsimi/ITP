@@ -55,16 +55,16 @@ const Sidebar = () => {
 
             <div className='icono  d-flex'>
                 <span>
-                    <img src={white} />
+                    <img alt='white' src={white} />
                 </span>
 
             </div>
             <h4>ITP VOICE</h4>
 
             <div onClick={handleClickCollapse} className='d-flex  stiloscollapso'>
-                <span ><img className='sidebaricon' src={Graph} /></span>
+                <span ><img alt='grap' className='sidebaricon' src={Graph} /></span>
                 <p className="sidebar-titulo2">My Extension </p>
-                <span ><img className='vector1  mx-3' src={vector} /></span>
+                <span ><img alt='vector' className='vector1  mx-3' src={vector} /></span>
 
             </div>
 

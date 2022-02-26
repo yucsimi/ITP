@@ -20,7 +20,7 @@ const Navbar = (props) => {
 
         <div className='navbarr  d-flex justify-content-between '>
             <div className=' mx-3'>
-                <img src={group} />
+                <img alt='group' src={group} />
 
             </div>
 
@@ -31,7 +31,7 @@ const Navbar = (props) => {
                     <p className='mx-3 navbarrBilling'>Billing</p>
                     <div className='d-flex'>
                         <p className='mx2 navbarrServicio'>My services</p>
-                        <span className='mx-2'> <img src={V} /></span>
+                        <span className='mx-2'> <img alt='v' src={V} /></span>
                     </div>
 
 
@@ -45,7 +45,7 @@ const Navbar = (props) => {
 
                                 <p className='jhon  mx-2'>John</p>
                                 <span className=''>
-                                    <img className='jhon2  mx-2' src={ellipse} />
+                                    <img alt='jhno2' className='jhon2  mx-2' src={ellipse} />
                                 </span>
 
 
@@ -55,8 +55,8 @@ const Navbar = (props) => {
                         </DropdownToggle>
 
                         <DropdownMenu>
-                            <DropdownItem><div className='d-flex botonItem'> <span className='mx-2'><img src={perfil} /></span><p>Profile</p> </div></DropdownItem>
-                            <DropdownItem><div className='d-flex  botonItem'> <span className='mx-2'><img src={logout} /></span><p>Logout</p> </div></DropdownItem>
+                            <DropdownItem><div className='d-flex botonItem'> <span className='mx-2'><img alt='perfil' src={perfil} /></span><p>Profile</p> </div></DropdownItem>
+                            <DropdownItem><div className='d-flex  botonItem'> <span className='mx-2'><img alt='logout' src={logout} /></span><p>Logout</p> </div></DropdownItem>
 
                         </DropdownMenu>
                     </Dropdown>
