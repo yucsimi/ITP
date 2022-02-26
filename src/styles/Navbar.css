@@ -1,0 +1,109 @@
+.navbarr{
+height: 80px;
+align-items: center;
+justify-content: center;
+background: #2C3965;
+}
+
+
+/* todo lo del droptown */
+
+.dropdown{
+    background: transparent !important;
+    padding-right:20px ;
+
+
+}
+
+.dropdown button{
+    margin: 0;
+    background: #233160 !important;
+    transition: 0px;
+    width: 130px;
+    padding: 0;
+
+    border: 0px;
+    border-radius: 20px;
+
+}
+
+
+
+.dropdown-menu{
+    background:   #233160 ;
+    border-radius: 20px;
+    margin: 0;
+    padding: 10px;
+    min-width: 0px;
+    
+}
+.dropdown-menu button{
+    background: #2C3965;
+    box-shadow: 0px 5px 20px rgba(32, 42, 79, 0.2);
+    border-radius: 0px !important;
+    height: 50px;
+    border-bottom: 0.5px solid rgba(255,255,255,.3)   ;
+    
+
+
+}
+
+.dropdown-item{
+    background: #2C3965 !important;
+    color: #FFFFFF;
+}
+
+
+.botonItem{
+text-align: left;
+margin-left: 9px;
+padding: 10px;
+
+
+}
+.dropdown-toggle::after {
+    top: 0;
+    margin-top: 27px;
+
+}
+/* todo lo del navbar */
+
+.contenedorNavbarr{
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 5px;
+}
+
+.navbarrBilling{
+    color: #FFFFFF;
+    font-family: sans-serif;
+    
+}
+.navbarrServicio{
+    color: #FFFFFF;
+    font-family: sans-serif;
+
+}
+
+.contenedorPequeno p{
+    justify-content: center;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+.jhon{
+    margin-top: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jhon2{
+    margin-top: 9px;
+    display: flex;
+    align-items: center;
+}

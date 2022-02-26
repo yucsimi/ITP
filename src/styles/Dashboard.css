@@ -1,0 +1,105 @@
+.app{
+    background: #24315E;
+}
+.dashboard{
+    font-size: 20px;
+    padding: 35px;
+    color: #FFFFFF;
+}
+.carta {
+    width: 45% !important;
+    border-radius: 34.07px;
+    background-color: rgba(44, 57, 101, 1);
+    font-family: sans-serif;
+    border-radius: 34.0662px;
+    box-shadow: 0px 5px 20px 0PX rgb(32, 42, 79, 0.6);
+   
+}
+.carta h3{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 1);
+    margin: 25PX 25PX;
+
+}
+.parrafo1{
+    font-size: 13px;
+    color: rgba(135, 145, 173, 1);
+    font-family: sans-serif;
+}
+.parrafo2{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 1);
+}
+.borderDeAbajo{
+    border-bottom: 0.5px solid rgba(255,255,255,.3)   ;
+    padding: 0;
+    font-size: 14px;
+}
+.segundaCarta {
+    width: 45% !important;
+    border-radius: 34.07px;
+    background-color: rgba(44, 57, 101, 1);
+    box-shadow: 0px 5px 20px 0PX rgb(32, 42, 79, 0.6);
+
+    font-family: sans-serif;
+}
+
+.segundaCarta h3{
+    font-size: 15px;
+    margin: 25PX 25PX;
+    color: rgba(255, 255, 255, 1);
+}
+.terceraCarta{
+    border-radius: 34.07px;
+    background-color: rgba(44, 57, 101, 1);
+    box-shadow: 0px 5px 20px 0PX rgb(32, 42, 79, 0.6);
+
+    font-family: sans-serif;
+
+
+}
+.terceraCarta h5{
+    font-size: 16px;
+    color:rgba(255, 255, 255, 1) ;
+    margin: 26px 39px;
+    
+}
+.numero{
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+}
+.previosMonth{
+    font-size: 11px;
+    color: rgba(135, 145, 173, 1);
+}
+.boton{
+background: linear-gradient(133.96deg, #8B9EFF -8.05%, #5F7AFF 113.32%);
+width: 141.99px;
+font-size: 11.92px;
+border: none;
+height: 36px;
+border-radius: 12.77px;
+box-shadow: 0px 1.70331px 8.51656px rgba(102, 128, 255, 0.25);
+
+}
+
+
+
+
+.carta div{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.segundaCarta div{
+
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenedorDashboard{
+    padding: 0 68px;
+
+}

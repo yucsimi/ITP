@@ -1,0 +1,42 @@
+button {
+    background: transparent;
+}
+.sidebar-buttom{
+    background: transparent !important;
+    border: none;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 1px;
+
+}
+
+.sidebar-titulo{
+    color:  #8791AD;
+    text-align: center;
+    padding-left: 10px;
+    font-family: sans-serif;
+    margin:0;
+   
+
+   
+}
+.sidebaricon{
+    padding-left: 11.5px;
+    
+}
+.boton23{
+    height: 40px;
+    display: flex;
+    align-items: center;
+
+}
+.button-activado{
+   background: linear-gradient(89.93deg, rgba(124, 146, 255, 0.1) 0.07%, rgba(196, 196, 196, 0) 99.95%);
+   border-left: 4px solid  #5F7AFF;
+   color: white;
+  
+}
+.button-activado .sidebar-titulo{
+    color: white !important;
+}
+
